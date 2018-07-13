@@ -1,0 +1,27 @@
+
+.. _h1817c6cde372020595a336e73314d:
+
+New Project
+###########
+
+.. _h62e154936511b1545f696e5b223445:
+
+Chapter1
+********
+
+content of chapter 1
+
+.. _h29807b50771f6d231f1a1e4d3169333d:
+
+Chapter2
+********
+
+content of chapter 2
+
+\ |IMG1|\ 
+
+.. bottom of content
+
+.. |IMG1| image:: static/Documento_senza_titolo_1.jpeg
+   :height: 224 px
+   :width: 345 px
