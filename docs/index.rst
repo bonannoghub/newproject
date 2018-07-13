@@ -4,11 +4,12 @@
 New Project
 ###########
 
-			
+
 .. toctree:: 
     :maxdepth: 2
-   UserGuide
-    
+    :hidden:
+    UserGuide
+
 .. _h62e154936511b1545f696e5b223445:
 
 Chapter1
