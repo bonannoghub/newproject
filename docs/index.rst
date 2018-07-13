@@ -22,6 +22,6 @@ content of chapter 2
 
 .. bottom of content
 
-.. |IMG1| image:: static/Documento_senza_titolo_1.jpeg
-   :height: 224 px
-   :width: 345 px
+.. |IMG1| image:: static/Documento_senza_titolo_1.png
+   :height: 232 px
+   :width: 349 px
