@@ -8,6 +8,7 @@ New Project
 
 .. toctree:: 
     :maxdepth: 2
+    :hidden:
 
     User Guide
 
