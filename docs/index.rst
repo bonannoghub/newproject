@@ -10,7 +10,6 @@ New Project
     :maxdepth: 2
     :hidden:
     UserGuide
-    
 
 .. _h62e154936511b1545f696e5b223445:
 
