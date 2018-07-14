@@ -7,7 +7,8 @@ New Project
 
 .. toctree:: 
     :maxdepth: 2
-    :hidden: 
+    :hidden:
+    :caption: Indice 
 
     UserGuide
 
